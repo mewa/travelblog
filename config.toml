@@ -49,5 +49,5 @@ defaultContentLanguage = "pl"
 
 [[menu.main]]
   name = "Travel"
-  url = "/categories/travel"
+  url = "/categories/travel/"
   weight = 99
