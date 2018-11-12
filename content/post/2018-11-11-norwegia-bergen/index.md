@@ -12,40 +12,52 @@ Idealny pomysł na klasyczny przedłużony weekend, od piątku do poniedziałku 
 
 Drugie co do wielkości miasto Norwegii, zwane również bramą do fiordów, zachwyciło nas swoimi widokami oraz wspaniałą drewnianą architekturą. Szczególnie rzuca się w oczy kolorowa dzielnica Bryggen, z charakterystyczną zabudową tuż nad brzegiem wody.
 
-<img src="/img/bergen027.jpg" title="Bryggen" alt="Drewniana zabudowa Bryggen"/>
+<p>
+    {{<img src="bergen027.jpg" title="Bryggen" alt="Drewniana zabudowa Bryggen" >}}
+</p>
 
 Miasto pośród siedmiu wzgórz -- jak sama nazwa wskazuje -- leży pomiędzy dziewięciowa wzgórzami. Isnieją spory odnośnie tego, o które siedem chodzi, jednak co do Fløyen -- wzgórza, na które się udaliśmy -- nie ma wątpliwości, że się do nich zalicza.
 
 Na szczyt dostalismy się naziemną kolejką linową -- Fløibanen -- by zobaczyć piękną panoramę położonego nad fiordami miasta, z wysokości ponad 300 metrów.
 
-<img src="/img/bergen031.jpg" alt="Fløibanen" title="Fløibanen" />
-<img src="/img/bergen032.jpg" alt="Fløibanen" title="Fløibanen" />
-<img src="/img/bergen033.jpg" alt="Panorama Bergen" title="Panorama Bergen" />
+<p>
+    {{<img src="bergen031.jpg" title="Fløibanen" >}}
+    {{<img src="bergen032.jpg" title="Fløibanen" >}}
+    {{<img src="bergen033.jpg" title="Panorama Bergen" >}}
+</p>
 
 W sobotę wybraliśmy się na całodniową wycieczkę na fiordy. Zimą w odróżnieniu od okresu letniego jest zdecydowanie mniejszy wybór rejsów turystycznych, jednak ostatecznie udało nam się znaleźć przepiękną trasę.
 
 Wcześnie rano udaliśmy na dworzec kolejowy w Bergen, skąd pociągiem pojechaliśmy do oddalonego o godzinę Voss. Jest to spokojna miejscowość, a zarazem popularny kurort narciarki.
 
-<img src="/img/bergen00.jpg" alt="Voss" title="Voss" />
-<img src="/img/bergen01.jpg" alt="Voss" title="Voss" />
+<p>
+    {{<img src="bergen00.jpg" title="Voss" alt="Voss" >}}
+    {{<img src="bergen01.jpg" title="Voss" alt="Voss" >}}
+</p>
 
 Pół godziny w zupełności nam wystarczyło, by przesiąść się na autobus, którym dojechaliśmy do Gudvangen.
 
-<img src="/img/bergen02.jpg" alt="Droga do Gudvangen" title="Droga do Gudvangen" />
-<img src="/img/bergen03.jpg" alt="Droga do Gudvangen" title="Droga do Gudvangen" />
+<p>
+    {{<img src="bergen02.jpg" title="Droga do Gudvangen" alt="Droga do Gudvangen" >}}
+    {{<img src="bergen03.jpg" title="Droga do Gudvangen" alt="Droga do Gudvangen" >}}
+</p>
 
 Tam wsiedliśmy na statek płynący do Flåm.
 
-<img src="/img/bergen05.jpg" alt="Gudvangen" title="Gudvangen" />
-<img src="/img/bergen04.jpg" alt="Gudvangen" title="Gudvangen" />
+<p>
+    {{<img src="bergen05.jpg" title="Gudvangen" alt="Gudvangen" >}}
+    {{<img src="bergen04.jpg" title="Gudvangen" alt="Gudvangen" >}}
+</p>
 
 Trwający nieco ponad dwie godziny rejs dostarczył nam nieopisanych wrażeń. Niesamowite widoki, zachwycające fiordy i zamarznięte wodospady towarzyszyły nam przez całą drogę. Piękne krajobrazy rekompensowały stosunkowo mroźną aurę -- tak, że cały rejs spędziliśmy na pokładzie, bez wchodzenia do środka.
 
-<img src="/img/bergen06.jpg" alt="Fiordy" title="Fiordy" />
-<img src="/img/bergen07.jpg" alt="Fiordy" title="Fiordy" />
-<img src="/img/bergen08.jpg" alt="Fiordy" title="Fiordy" />
-<img src="/img/bergen09.jpg" alt="Fiordy" title="Fiordy" />
-<img src="/img/bergen010.jpg" alt="Fiordy" title="Fiordy" />
+<p>
+    {{<img src="bergen06.jpg" title="Fiordy" alt="Fiordy" >}}
+    {{<img src="bergen07.jpg" title="Fiordy" alt="Fiordy" >}}
+    {{<img src="bergen08.jpg" title="Fiordy" alt="Fiordy" >}}
+    {{<img src="bergen09.jpg" title="Fiordy" alt="Fiordy" >}}
+    {{<img src="bergen010.jpg" title="Fiordy" alt="Fiordy" >}}
+</p>
 
 Trasa biegła przez wpisany na listę UNESCO Nærøyfjord -- będący podobno najładniejszą odnogą największego norweskiego fiordu -- Sognefjord.
 
@@ -53,25 +65,33 @@ W niewielkim miasteczku Flåm, kończy trasę także 20-kilometrowa zabytkowa li
 
 Przyklejony do ściany pociąg powoli wspina się do góry, prowadząc przez tunele i mosty; z boku raz po raz widać przepaść.
 
-<img src="/img/bergen012.jpg" alt="Flåmsbana" title="Flåmsbana" />
-<img src="/img/bergen013.jpg" alt="Flåmsbana" title="Flåmsbana" />
-<img src="/img/bergen014.jpg" alt="Flåmsbana" title="Flåmsbana" />
+<p>
+    {{<img src="bergen012.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
+    {{<img src="bergen013.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
+    {{<img src="bergen014.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
+</p>
 
 Po drodze zatrzymaliśmy się, żeby podziwiać wodospad Kjosfossen, który był akurat zamarznięty i cały przysypany śniegiem.
 
-<img src="/img/bergen016.jpg" alt="Wodospad Kjosfossen" title="Wodospad Kjosfossen" />
-<img src="/img/bergen017.jpg" alt="Wodospad Kjosfossen" title="Wodospad Kjosfossen" />
-<img src="/img/bergen019.jpg" alt="Wodospad Kjosfossen" title="Wodospad Kjosfossen" />
+<p>
+    {{<img src="bergen016.jpg" title="Wodospad Kjosfossen" alt="Wodospad Kjosfossen" >}}
+    {{<img src="bergen017.jpg" title="Wodospad Kjosfossen" alt="Wodospad Kjosfossen" >}}
+    {{<img src="bergen019.jpg" title="Wodospad Kjosfossen" alt="Wodospad Kjosfossen" >}}
+</p>
 
 Naszą podróż jedną z najbardziej urokliwych tras kolejowych świata skończyliśmy w miejscowości Myrdal, do której można dostać się tylko pociągiem.
 
-<img src="/img/bergen022.jpg" alt="Stacja kolejowa w Myrdal" title="Stacja kolejowa w Myrdal" />
+<p>
+    {{<img src="bergen022.jpg" title="Stacja kolejowa w Myrdal" alt="Stacja kolejowa w Myrdal" >}}
+</p>
 
 Gdy dotarliśmy na miejsce, nasz następny pociąg już na nas czekał. Droga powrotna do Bergen trwała nieco ponad dwie godziny i również serwowała nam przepiękne widoki.
 
 W niedzielę jeszcze raz wybraliśmy się na wzgórze Fløyen -- tym razem pieszo. Trasa jest bardzo prosta, więc jest to świetny pomysł na spacer. Akurat spadł swieży śnieg, więc krajobraz się trochę odmienił.
 
-<img src="/img/bergen026.jpg" alt="Fløyen" title="Fløyen" />
+<p>
+    {{<img src="bergen026.jpg" title="Fløyen" alt="Fløyen" >}}
+</p>
 
 Warto także pójść -- szczególnie w godzinach porannych -- na targ rybny, ulokowany centralnie, zaraz przy nabrzeżu -- oraz przespacerować się uliczkami tego klimatycznego miasta.
 
