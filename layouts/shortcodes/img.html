@@ -1,0 +1,21 @@
+{{ $title := (.Get "title") }}
+
+{{ $alt := .Get "alt" | default (.Get "title")}}
+
+{{ $img := $.Page.Resources.GetMatch (.Get "src")}}
+{{ $img640x := $img.Resize "640x" }}
+{{ $img768x := $img.Resize "768x" }}
+{{ $img1024x := $img.Resize "1024x" }}
+{{ $img1600x := $img.Resize "1600x" }}
+
+<img src="{{ $img1024x.RelPermalink }}"
+     alt="{{ $alt }}" title="{{ $title }}"
+     srcset="{{ $img640x.RelPermalink }} 640w,
+          {{ $img768x.RelPermalink }} 768w,
+          {{ $img1024x.RelPermalink }} 1024w,
+          {{ $img1600x.RelPermalink }} 1600w"
+     sizes="(max-width: 640px) 640px,
+          (min-width: 640px) and (max-width: 768px) 768px,
+          (min-width: 768) and (max-width: 1024px) 1024px,
+          (min-width: 1600px) 1600px"
+/>
