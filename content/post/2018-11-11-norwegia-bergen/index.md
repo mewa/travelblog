@@ -53,8 +53,8 @@ Trwający nieco ponad dwie godziny rejs dostarczył nam nieopisanych wrażeń. N
 
 <p>
     {{<img src="bergen06.jpg" title="Fiordy" alt="Fiordy" >}}
-    {{<img src="bergen07.jpg" title="Fiordy" alt="Fiordy" >}}
-    {{<img src="bergen08.jpg" title="Fiordy" alt="Fiordy" >}}
+    {{<img src="bergen07.jpg" title="Fiordy" alt="Fiordy" rotate="-90" >}}
+    {{<img src="bergen08.jpg" title="Fiordy" alt="Fiordy" rotate="-90" >}}
     {{<img src="bergen09.jpg" title="Fiordy" alt="Fiordy" >}}
     {{<img src="bergen010.jpg" title="Fiordy" alt="Fiordy" >}}
 </p>
@@ -66,7 +66,7 @@ W niewielkim miasteczku Flåm, kończy trasę także 20-kilometrowa zabytkowa li
 Przyklejony do ściany pociąg powoli wspina się do góry, prowadząc przez tunele i mosty; z boku raz po raz widać przepaść.
 
 <p>
-    {{<img src="bergen012.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
+    {{<img src="bergen012.jpg" title="Flåmsbana" alt="Flåmsbana" rotate="-90" >}}
     {{<img src="bergen013.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
     {{<img src="bergen014.jpg" title="Flåmsbana" alt="Flåmsbana" >}}
 </p>
