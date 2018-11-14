@@ -1,12 +1,15 @@
 {{ $title := (.Get "title") }}
 
-{{ $alt := .Get "alt" | default (.Get "title")}}
+{{ $alt := .Get "alt" | default (.Get "title") }}
 
-{{ $img := $.Page.Resources.GetMatch (.Get "src")}}
-{{ $img640x := $img.Resize "640x" }}
-{{ $img768x := $img.Resize "768x" }}
-{{ $img1024x := $img.Resize "1024x" }}
-{{ $img1600x := $img.Resize "1600x" }}
+{{ $img := $.Page.Resources.GetMatch (.Get "src") }}
+
+{{ $rotate := (or (.Get "rotate") "0") }}
+
+{{ $img640x := $img.Resize (printf "%s r%s" "640x" $rotate) }}
+{{ $img768x := $img.Resize (printf "%s r%s" "768x" $rotate) }}
+{{ $img1024x := $img.Resize (printf "%s r%s" "1024x" $rotate) }}
+{{ $img1600x := $img.Resize (printf "%s r%s" "1600x" $rotate) }}
 
 <img src="{{ $img1024x.RelPermalink }}"
      alt="{{ $alt }}" title="{{ $title }}"
