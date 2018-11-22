@@ -9,8 +9,8 @@ languageName = "Polski"
 defaultContentLanguage = "pl"
 
 [params]
-  title = "Blog"
-  subtitle = "blog"
+#  title = "Blog"
+#  subtitle = "blog"
 
   cover = "/img/cover.jpg"
   description = "Blog podróżniczy"
@@ -23,7 +23,7 @@ defaultContentLanguage = "pl"
   fbName = ""
   githubName = ""
 
-#  logo = ""
+  logo = "/img/logo.png"
 #  orgName = ""
 #  orgWebsite = ""
 #  orgDescription = ""
