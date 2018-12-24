@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on </title>
+    <link>/tags/intro/</link>
+    <description>Recent content in Intro on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 11 Nov 2018 16:05:42 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Obowiązkowy pierwszy post</title>
+      <link>/posts/obowi%C4%85zkowy-pierwszy-post/</link>
+      <pubDate>Sun, 11 Nov 2018 16:05:42 +0100</pubDate>
+      
+      <guid>/posts/obowi%C4%85zkowy-pierwszy-post/</guid>
+      <description>&lt;p&gt;Jak na prawdziwego bloga przystało, nie może on istnieć bez wprowadzającego pierwszego posta.&lt;/p&gt;
+
+&lt;p&gt;Chcielibyśmy wam przybliżyć czego mniej więcej możecie się na nim spodziewać.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
