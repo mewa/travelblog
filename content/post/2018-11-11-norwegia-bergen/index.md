@@ -3,7 +3,6 @@ title: "Zimowy weekend w Bergen"
 date: 2018-11-11T19:36:41+01:00
 tags: [ "norwegia", "bergen", "fiordy", "zima"]
 categories: [ "travel", "weekend" ]
-draft: true
 image: "/posts/zimowy-weekend-w-bergen/bergen00.jpg"
 ---
 
