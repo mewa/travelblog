@@ -29,7 +29,7 @@ defaultContentLanguage = "pl"
 #  orgDescription = ""
 
   author = "Martyna & Marcin"
-#  authorAvatar = ""
+  authorAvatar = "/img/avatar.jpg"
 #  authorLocation = ""
 #  authorWebsite = ""
   authorDescription = "Podróżujemy i wgl"
