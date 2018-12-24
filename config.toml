@@ -8,6 +8,7 @@ languageCode = "pl"
 languageName = "Polski"
 defaultContentLanguage = "pl"
 title = "siepodrozuje.pl - Blog podróżniczy"
+timeout = 120000
 
 [params]
 #  title = "Blog"
