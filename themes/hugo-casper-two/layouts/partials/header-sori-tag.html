@@ -1,4 +1,4 @@
-<header class="site-header outer">
+<header class="site-header outer " {{if .Site.Params.cover}} style="background-image: url({{ .Site.Params.cover | absURL }}") {{end}} ><div class="overlay"></div>
   <div class="inner">
     <nav class="site-nav">
       <div class="site-nav-left">{{ if .Site.Params.logo }}
