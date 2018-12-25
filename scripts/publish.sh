@@ -1,20 +1,30 @@
-#!/bin/sh
+#!/bin/bash
+set -euxo pipefail
 
-BRANCH=$(git branch --list | grep '*' | cut -d' ' -f2)
+PUBLISH_BRANCH=gh-pages
 
-hugo
+BRANCH=$(git symbolic-ref --short HEAD)
+REMOTE=$(git config "branch.$BRANCH.remote")
+REMOTE_URL=$(git config "remote.$REMOTE.url")
 
-git checkout gh-pages
-git pull
+mkdir public || true
+cd public
 
-find . ! -path './.git*' ! -path './public*' -delete
-mv public/* .
-rmdir public
+git init
+git remote add "$REMOTE" "$REMOTE_URL" || true
 
+git fetch --depth=1 $REMOTE $PUBLISH_BRANCH
+git checkout $PUBLISH_BRANCH || git checkout -b $PUBLISH_BRANCH
+
+git rm -rf .
+git reset -- CNAME
+git checkout -- CNAME
+
+cd .. && hugo && cd public
 git add .
 
-MSG=$(echo -e "$0: Updated deployment")
+STATUS=$(git status --porcelain)
+MSG=$(echo -e "$0: Updated deployment\n\n$STATUS")
 git commit -m "$MSG"
 
-git push
-git checkout "$BRANCH"
+git push "$REMOTE" "$PUBLISH_BRANCH"
