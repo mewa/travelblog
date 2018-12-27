@@ -16,9 +16,9 @@ Drugie co do wielkości miasto Norwegii, zwane również bramą do fiordów, zac
     {{<img src="bergen027.jpg" title="Bryggen" alt="Drewniana zabudowa Bryggen" >}}
 </p>
 
-Miasto pośród siedmiu wzgórz -- jak sama nazwa wskazuje -- leży pomiędzy dziewięciowa wzgórzami. Isnieją spory odnośnie tego, o które siedem chodzi, jednak co do Fløyen -- wzgórza, na które się udaliśmy -- nie ma wątpliwości, że się do nich zalicza.
+Miasto pośród siedmiu wzgórz -- jak lubią o nim mówić jego mieszkańcy -- paradoksalnie, otoczone jest nie siedmioma, a dziewięciowa wzgórzami. Z oczywistych względów dwa z nich wolą pominąć, gdyż wtedy straciłoby ono swój legendarny wydźwięk. Isnieją spory odnośnie tego, o które siedem chodzi, jednak co do Fløyen -- wzgórza, na które się udaliśmy -- nie ma wątpliwości, że się do nich zalicza.
 
-Na szczyt dostalismy się naziemną kolejką linową -- Fløibanen -- by zobaczyć piękną panoramę położonego nad fiordami miasta, z wysokości ponad 300 metrów.
+Na szczyt dostaliśmy się naziemną kolejką linową -- Fløibanen -- by zobaczyć, z wysokości ponad 300 metrów, piękną panoramę położonego nad fiordami miasta.
 
 <p>
     {{<img src="bergen031.jpg" title="Fløibanen" >}}
@@ -28,7 +28,7 @@ Na szczyt dostalismy się naziemną kolejką linową -- Fløibanen -- by zobaczy
 
 W sobotę wybraliśmy się na całodniową wycieczkę na fiordy. Zimą w odróżnieniu od okresu letniego jest zdecydowanie mniejszy wybór rejsów turystycznych, jednak ostatecznie udało nam się znaleźć przepiękną trasę.
 
-Wcześnie rano udaliśmy na dworzec kolejowy w Bergen, skąd pociągiem pojechaliśmy do oddalonego o godzinę Voss. Jest to spokojna miejscowość, a zarazem popularny kurort narciarki.
+Wcześnie rano udaliśmy się na dworzec kolejowy w Bergen, skąd pociągiem pojechaliśmy do oddalonego o godzinę Voss. Jest to spokojna miejscowość, a zarazem popularny kurort narciarski.
 
 <p>
     {{<img src="bergen00.jpg" title="Voss" alt="Voss" >}}
