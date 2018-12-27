@@ -17,7 +17,7 @@ timeout = 120000
   cover = "/img/bergen09.jpg"
   description = "Blog podróżniczy"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-131460766-1"
   customCSS = []
   RSSLink = ""
 
