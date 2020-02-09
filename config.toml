@@ -26,14 +26,9 @@ timeout = 120000
   githubName = ""
 
   logo = "/img/logo.png"
-#  orgName = ""
-#  orgWebsite = ""
-#  orgDescription = ""
 
   author = "Martyna & Marcin"
   authorAvatar = "/img/avatar.jpg"
-#  authorLocation = ""
-#  authorWebsite = ""
   authorDescription = ""
 
   pageNotFoundTitle = "404 - nic tu nie ma :("
